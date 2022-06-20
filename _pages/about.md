@@ -14,6 +14,14 @@ My research interests include deep learning, speech processing, and deep learnin
 
 ## Selected Publications ##
 <a id="1"></a> 
+R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "MTI-Net: A Multi-Target Speech Intelligibility Prediction Model," To appear in INTERSPEECH 2022. <a href="https://arxiv.org/pdf/2204.03310.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain
+" target="_blank">[code]</a>
+
+<a id="1"></a> 
+R. E. Zezario, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "MBI-Net: A Non-Intrusive Multi-Branched Speech Intelligibility Prediction Model for Hearing Aids," To appear in INTERSPEECH 2022. <a href="https://arxiv.org/pdf/2204.03305.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain
+" target="_blank">[code]</a>
+
+<a id="1"></a> 
 R. E. Zezario, C. -S. Fuh, H. -M. Wang and Y. Tsao, "Speech Enhancement with Zero-Shot Model Selection," 2021 29th European Signal Processing Conference (EUSIPCO), pp. 491-495, 2021. <a href="https://arxiv.org/ftp/arxiv/papers/2012/2012.09359.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/Zero_Shot_Model_Selection" target="_blank">[code]</a>
 
 <a id="1"></a> 
