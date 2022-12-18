@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working towards a Ph.D. degree in Computer Science and Information Engineering at National Taiwan University and also working as a Research Assistant at Research Center for Information Technology Innovation, Academia Sinica. Besides, I am also currently an Applied Scientist Intern at Amazon, Sunnyvale, CA. I was honored the Gold Prize for the best non-intrusive systems and 1st place for the Hearing Industry Research Consortium student prizes at <a href="https://claritychallenge.org/clarity2022-workshop/results.html" target="_blank">the Clarity Prediction Challenge, the 2nd Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2022).</a> 
+I am currently working towards a Ph.D. degree in Computer Science and Information Engineering at National Taiwan University and also working as a Research Assistant at Research Center for Information Technology Innovation, Academia Sinica. I was an Applied Scientist II Intern at Amazon, Sunnyvale, CA. I was honored the Gold Prize for the best non-intrusive systems and 1st place for the Hearing Industry Research Consortium student prizes at <a href="https://claritychallenge.org/clarity2022-workshop/results.html" target="_blank">the Clarity Prediction Challenge, the 2nd Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2022).</a> 
 
 My research interests include deep learning, speech processing, and deep learning-based non-intrusive speech assessment model. Please kindly check the following <a href="https://scholar.google.com/citations?user=czoBHtoAAAAJ&hl=en" target="_blank">link</a> for more update publications.
 
