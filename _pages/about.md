@@ -14,7 +14,7 @@ My research interests include deep learning, speech processing, and deep learnin
 
 ## Selected Publications ##
 <a id="1"></a> 
-R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features," To appear in IEEE/ACM Transactions on Audio, Speech, and Language Processing. <a href="https://arxiv.org/pdf/2111.02363.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MBI-Net
+R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features," To appear in IEEE/ACM Transactions on Audio, Speech, and Language Processing. <a href="https://arxiv.org/pdf/2111.02363.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain
 " target="_blank">[code]</a>
 
 
@@ -23,7 +23,7 @@ R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "MTI-Net:
 " target="_blank">[code]</a>
 
 <a id="1"></a> 
-R. E. Zezario, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "MBI-Net: A Non-Intrusive Multi-Branched Speech Intelligibility Prediction Model for Hearing Aids," To appear in INTERSPEECH 2022. <a href="https://arxiv.org/pdf/2204.03305.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain
+R. E. Zezario, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "MBI-Net: A Non-Intrusive Multi-Branched Speech Intelligibility Prediction Model for Hearing Aids," To appear in INTERSPEECH 2022. <a href="https://arxiv.org/pdf/2204.03305.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MBI-Net
 " target="_blank">[code]</a>
 
 <a id="1"></a> 
