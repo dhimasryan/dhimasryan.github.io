@@ -19,7 +19,7 @@ R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "Deep Lea
 
 
 <a id="1"></a> 
-R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "MTI-Net: A Multi-Target Speech Intelligibility Prediction Model," To appear in INTERSPEECH 2022. <a href="https://arxiv.org/pdf/2204.03310.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MTI-Net
+R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "MTI-Net: A Multi-Target Speech Intelligibility Prediction Model," To appear in INTERSPEECH 2022. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9905733" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MTI-Net
 " target="_blank">[code]</a>
 
 <a id="1"></a> 
