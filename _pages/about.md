@@ -8,22 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working towards a Ph.D. degree in Computer Science and Information Engineering at National Taiwan University and also working as a Research Assistant at Research Center for Information Technology Innovation, Academia Sinica. I was an Applied Scientist II Intern at Amazon, Sunnyvale, CA. I was honored the Gold Prize for the best non-intrusive systems and 1st place for the Hearing Industry Research Consortium student prizes at <a href="https://claritychallenge.org/clarity2022-workshop/results.html" target="_blank">the Clarity Prediction Challenge, the 2nd Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2022).</a> 
+I received a Ph.D. degree in Computer Science and Information Engineering from National Taiwan University. I was honored the Gold Prize for the best non-intrusive systems and 1st place for the Hearing Industry Research Consortium student prizes at <a href="https://claritychallenge.org/clarity2022-workshop/results.html" target="_blank">the Clarity Prediction Challenge, the 2nd Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2022).</a> 
 
 My research interests include deep learning, speech processing, and deep learning-based non-intrusive speech assessment model. Please kindly check the following <a href="https://scholar.google.com/citations?user=czoBHtoAAAAJ&hl=en" target="_blank">link</a> for more update publications.
 
 ## Selected Publications ##
 <a id="1"></a> 
-R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features," To appear in IEEE/ACM Transactions on Audio, Speech, and Language Processing. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9905733" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain
+R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features," in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 54-70, 2023. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9905733" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain
 " target="_blank">[code]</a>
 
 
 <a id="1"></a> 
-R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "MTI-Net: A Multi-Target Speech Intelligibility Prediction Model," To appear in INTERSPEECH 2022. <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2022/zezario22_interspeech.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MTI-Net
+R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "MTI-Net: A Multi-Target Speech Intelligibility Prediction Model," INTERSPEECH 2022, pp. 5463-5467, 2022. <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2022/zezario22_interspeech.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MTI-Net
 " target="_blank">[code]</a>
 
 <a id="1"></a> 
-R. E. Zezario, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "MBI-Net: A Non-Intrusive Multi-Branched Speech Intelligibility Prediction Model for Hearing Aids," To appear in INTERSPEECH 2022. <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2022/edozezario22_interspeech.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MBI-Net
+R. E. Zezario, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "MBI-Net: A Non-Intrusive Multi-Branched Speech Intelligibility Prediction Model for Hearing Aids," INTERSPEECH 2022, pp. 3944-3948, 2022. <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2022/edozezario22_interspeech.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MBI-Net
 " target="_blank">[code]</a>
 
 <a id="1"></a> 
