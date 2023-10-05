@@ -23,7 +23,7 @@ R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "MTI-Net:
 " target="_blank">[code]</a>
 
 <a id="1"></a> 
-R. E. Zezario, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "MBI-Net: A Non-Intrusive Multi-Branched Speech Intelligibility Prediction Model for Hearing Aids," INTERSPEECH 2022, pp. 3944-3948, 2022. <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2022/edozezario22_interspeech.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MBI-Net
+R. E. Zezario, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "MBI-Net: A Non-Intrusive Multi-Branched Speech Intelligibility Prediction Model for Hearing Aids," INTERSPEECH 2022, pp. 3944-3948, 2022. (Gold Prize for the best non-intrusive systems at Clarity Prediction Challenge 2022)  <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2022/edozezario22_interspeech.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MBI-Net
 " target="_blank">[code]</a>
 
 <a id="1"></a> 
