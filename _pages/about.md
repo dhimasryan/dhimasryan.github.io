@@ -46,7 +46,7 @@ R. E. Zezario, J. W. C. Sigalingging, T. Hussain, J. -C. Wang and Y. Tsao, "Comp
 <a id="1"></a> 
 R. E. Zezario,S.-W. Fu, X. Lu, H.-M. Wang, and Y. Tsao, “Specialized
 Speech Enhancement Model Selection Based on Learned Non-Intrusive Quality Assessment Metric," INTERSPEECH 2019, pp.3168-
-3172, 2019. <a href="https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/2425.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/SSEMS-with-Quality-Net" target="_blank">[code]</a>
+3172, 2019. <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2019/zezario19_interspeech.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/SSEMS-with-Quality-Net" target="_blank">[code]</a>
 
 <a id="1"></a> 
 R. E. Zezario, J. Huang, X. Lu, Y. Tsao, H. Hwang and H. Wang, "Deep Denoising Autoencoder Based Post Filtering for Speech Enhancement," 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), pp. 373-377, 2018. <a href="https://ieeexplore.ieee.org/document/8659598" target="_blank">[pdf]</a>
