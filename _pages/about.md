@@ -14,7 +14,7 @@ My research interests include deep learning, speech processing, and deep learnin
 
 ## Selected Publications ##
 <a id="1"></a> 
-R. E. Zezario, Y.-W. Chen, S.-W. Fu, Y. Tsao, H. -M. Wang and C. -S. Fuh, "A Study on Incorporating Whisper for Robust Speech Assessment," arXiv 2309.12766, 2023. (Top Performance on the Track 3 - VoiceMOS Challenge 2023) <a href="https://arxiv.org/pdf/2309.12766.pdf" target="_blank">[pdf]</a>
+R. E. Zezario, Y.-W. Chen, S.-W. Fu, Y. Tsao, H. -M. Wang and C. -S. Fuh, "A Study on Incorporating Whisper for Robust Speech Assessment," arXiv 2309.12766, 2023. (Top Performance on the Track 3 - VoiceMOS Challenge 2023) <a href="https://arxiv.org/pdf/2309.12766.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/TMHINT-QI_VoiceMOS2023" target="_blank">[github]</a>
 
 R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features," in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 54-70, 2023. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9905733" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain
 " target="_blank">[code]</a>
