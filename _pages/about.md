@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I received a Ph.D. degree in Computer Science and Information Engineering from National Taiwan University, Taipei, Taiwan. I am currently a Postdoctoral Researcher at the Research Center for Information Technology Innovation, Academia Sinica, in Taipei, Taiwan. I was previously a Research Assistant at the same institute and also worked as an Applied Scientist Intern at Amazon in California, USA. I was honored the Gold Prize for the best non-intrusive systems and 1st place for the Hearing Industry Research Consortium student prizes at <a href="https://claritychallenge.org/clarity2022-workshop/results.html" target="_blank">the Clarity Prediction Challenge, the 2nd Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2022).</a> 
+I received a Ph.D. degree in Computer Science and Information Engineering from National Taiwan University, Taipei, Taiwan. I am currently a Postdoctoral Researcher at the Research Center for Information Technology Innovation, Academia Sinica, in Taipei, Taiwan. I was previously a Research Assistant at the same institute and also worked as an Applied Scientist Intern at Amazon in California, USA. I was honored with the Gold Prize for the best non-intrusive systems and 1st place for the Hearing Industry Research Consortium student prizes at <a href="https://claritychallenge.org/clarity2022-workshop/results.html" target="_blank">the Clarity Prediction Challenge, the 2nd Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2022). </a> I was also honored with the Best Reviewer award of IEEE ASRU 2023. 
 
 My research interests include deep learning, speech processing, and deep learning-based non-intrusive speech assessment model. Please kindly check the following <a href="https://scholar.google.com/citations?user=czoBHtoAAAAJ&hl=en" target="_blank">link</a> for more update publications.
 
 ## Selected Publications ##
+<a id="1"></a> 
+R. E. Zezario, Bo-Ren Brian Bai, Chiou-Shann Fuh, Hsin-Min Wang, Yu Tsao, "Multi-Task Pseudo-Label Learning for Non-Intrusive Speech Quality Assessment Model," to appear in IEEE ICASSP 2024. <a href="https://arxiv.org/pdf/2308.09262.pdf" target="_blank">[pdf]</a> 
+
 <a id="1"></a> 
 R. E. Zezario, Y.-W. Chen, S.-W. Fu, Y. Tsao, H. -M. Wang and C. -S. Fuh, "A Study on Incorporating Whisper for Robust Speech Assessment," arXiv 2309.12766, 2023. (Top Performance on the Track 3 - VoiceMOS Challenge 2023) <a href="https://arxiv.org/pdf/2309.12766.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/TMHINT-QI_VoiceMOS2023" target="_blank">[github]</a>
 
