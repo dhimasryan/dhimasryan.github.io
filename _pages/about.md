@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Researcher at the Research Center for Information Technology Innovation, Academia Sinica, in Taipei, Taiwan. I was previously a Research Assistant at the same institute and also worked as an Applied Scientist II Intern at Amazon in California, USA. I received a Ph.D. degree in Computer Science and Information Engineering from National Taiwan University, Taipei, Taiwan. I was honored with the Gold Prize for the best non-intrusive systems and 1st place for the Hearing Industry Research Consortium student prizes at <a href="https://claritychallenge.org/clarity2022-workshop/results.html" target="_blank">the Clarity Prediction Challenge, the 2nd Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2022). </a> I was also honored with the Best Reviewer award of IEEE ASRU 2023. 
+I am currently a Postdoctoral Researcher at the Research Center for Information Technology Innovation, Academia Sinica, in Taipei, Taiwan. I was previously a Research Assistant at the same institute and also worked as an Applied Scientist II Intern at Amazon in California, USA. I received a Ph.D. degree in Computer Science and Information Engineering from National Taiwan University, Taipei, Taiwan. 
+
+I was honored with the Gold Prize for the best non-intrusive systems and 1st place for the Hearing Industry Research Consortium student prizes at <a href="https://claritychallenge.org/clarity2022-workshop/results.html" target="_blank">the Clarity Prediction Challenge, the 2nd Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2022). </a> I was also honored with the Best Reviewer award of IEEE ASRU 2023. 
 
 My research interests include deep learning, speech processing, and deep learning-based non-intrusive speech assessment model. Please kindly check the following <a href="https://scholar.google.com/citations?user=czoBHtoAAAAJ&hl=en" target="_blank">link</a> for more update publications.
 
@@ -17,7 +19,7 @@ My research interests include deep learning, speech processing, and deep learnin
 R. E. Zezario, Bo-Ren Brian Bai, Chiou-Shann Fuh, Hsin-Min Wang, Yu Tsao, "Multi-Task Pseudo-Label Learning for Non-Intrusive Speech Quality Assessment Model," to appear in IEEE ICASSP 2024. <a href="https://arxiv.org/pdf/2308.09262.pdf" target="_blank">[pdf]</a> 
 
 <a id="1"></a> 
-R. E. Zezario, Y.-W. Chen, S.-W. Fu, Y. Tsao, H. -M. Wang and C. -S. Fuh, "A Study on Incorporating Whisper for Robust Speech Assessment," arXiv 2309.12766, 2023. (Top Performance on the Track 3 - VoiceMOS Challenge 2023) <a href="https://arxiv.org/pdf/2309.12766.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/TMHINT-QI_VoiceMOS2023" target="_blank">[github]</a>
+R. E. Zezario, Y.-W. Chen, S.-W. Fu, Y. Tsao, H. -M. Wang and C. -S. Fuh, "A Study on Incorporating Whisper for Robust Speech Assessment," to appear in IEEE ICME 2024. (Top Performance on the Track 3 - VoiceMOS Challenge 2023) <a href="https://arxiv.org/pdf/2309.12766.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/TMHINT-QI_VoiceMOS2023" target="_blank">[dataset]</a> <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain/tree/main/MOSA_Net%2B" target="_blank">[github]</a>
 
 R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features," in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 54-70, 2023. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9905733" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain
 " target="_blank">[code]</a>
