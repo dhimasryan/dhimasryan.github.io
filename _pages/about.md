@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Researcher at the Research Center for Information Technology Innovation, Academia Sinica, in Taipei, Taiwan. I was previously a Research Assistant at the same institute and also worked as an Applied Scientist II Intern at Amazon in California, USA. I received a Ph.D. degree in Computer Science and Information Engineering from National Taiwan University, Taipei, Taiwan. 
+I am currently a Postdoctoral Researcher at the Research Center for Information Technology Innovation, Academia Sinica, in Taipei, Taiwan. I was previously a Research Assistant at the same institute and also worked as an Applied Scientist II Intern at Amazon in California, USA. 
+
+I received a Ph.D. degree in Computer Science and Information Engineering from National Taiwan University, Taipei, Taiwan. 
 
 I was honored with the Gold Prize for the best non-intrusive systems and 1st place for the Hearing Industry Research Consortium student prizes at <a href="https://claritychallenge.org/clarity2022-workshop/results.html" target="_blank">the Clarity Prediction Challenge, the 2nd Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2022). </a> I was also honored with the Best Reviewer award of IEEE ASRU 2023. 
 
