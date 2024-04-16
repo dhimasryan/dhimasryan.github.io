@@ -12,7 +12,9 @@ I am currently a Postdoctoral Researcher at the Research Center for Information 
 
 I received a Ph.D. degree in Computer Science and Information Engineering from National Taiwan University, Taipei, Taiwan.
 
-I was honored with the Gold Prize for the best non-intrusive systems and 1st place for the Hearing Industry Research Consortium student prizes at <a href="https://claritychallenge.org/clarity2022-workshop/results.html" target="_blank">the Clarity Prediction Challenge, the 2nd Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2022). </a> I was also honored with the Best Reviewer award of IEEE ASRU 2023. I am also a Reviewer in leading journals/conferences, such as IEEE TASLP, IEEE SPL, IEEE ICASSP, Interspeech, IEEE ASRU, IEEE ICME, Expert Systems with Applications, etc. 
+I was honored with the Gold Prize for the best non-intrusive systems and 1st place for the Hearing Industry Research Consortium student prizes at <a href="https://claritychallenge.org/clarity2022-workshop/results.html" target="_blank">the Clarity Prediction Challenge, the 2nd Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2022). </a> I was also honored with the Best Reviewer award of IEEE ASRU 2023. 
+
+I am also a Reviewer in leading journals/conferences, such as IEEE TASLP, IEEE SPL, IEEE ICASSP, Interspeech, IEEE ASRU, IEEE ICME, Expert Systems with Applications, etc. 
  
 
 My research interests include deep learning, speech processing, and deep learning-based non-intrusive speech assessment model. Please kindly check the following <a href="https://scholar.google.com/citations?user=czoBHtoAAAAJ&hl=en" target="_blank">link</a> for more update publications.
