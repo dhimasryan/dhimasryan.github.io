@@ -12,9 +12,10 @@ I am currently a Postdoctoral Researcher at the Research Center for Information 
 
 I received a Ph.D. degree in Computer Science and Information Engineering from National Taiwan University, Taipei, Taiwan.
 
-I was honored with the Gold Prize for the best non-intrusive systems and 1st place for the Hearing Industry Research Consortium student prizes at <a href="https://claritychallenge.org/clarity2022-workshop/results.html" target="_blank">the Clarity Prediction Challenge, the 2nd Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2022). </a> I was also honored with the Best Reviewer award of IEEE ASRU 2023. 
+I was honored with the Gold Prize for the best non-intrusive systems and 1st place for the Hearing Industry Research Consortium student prizes at <a href="https://claritychallenge.org/clarity2022-workshop/results.html" target="_blank">the Clarity Prediction Challenge, the 2nd Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2022). </a> I was also honored with the Best Reviewer award of IEEE ASRU 2023.
 
-I am also a Reviewer in leading journals/conferences, such as IEEE/ACM TASLP, IEEE SPL, IEEE ICASSP, Interspeech, IEEE ASRU, IEEE ICME, Expert Systems with Applications, etc. 
+
+I am also a <a href="https://www.webofscience.com/wos/author/record/IQR-6465-2023" target="_blank">Reviewer</a> in leading journals/conferences, such as IEEE/ACM TASLP, IEEE SPL, IEEE ICASSP, Interspeech, IEEE ASRU, IEEE ICME, Expert Systems with Applications, etc. 
  
 
 My research interests include deep learning, speech processing, and deep learning-based non-intrusive speech assessment model. Please kindly check the following <a href="https://scholar.google.com/citations?user=czoBHtoAAAAJ&hl=en" target="_blank">link</a> for more update publications.
@@ -30,7 +31,7 @@ R. E. Zezario, Y.-W. Chen, S.-W. Fu, Y. Tsao, H. -M. Wang and C. -S. Fuh, "A Stu
 R. E. Zezario, Bo-Ren Brian Bai, Chiou-Shann Fuh, Hsin-Min Wang, Yu Tsao, "Multi-Task Pseudo-Label Learning for Non-Intrusive Speech Quality Assessment Model," IEEE ICASSP 2024, pp. 831-835. 2024. <a href="https://arxiv.org/pdf/2308.09262.pdf" target="_blank">[pdf]</a> 
 
 
-R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features," in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 54-70, 2023. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9905733" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain
+R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features," in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 54-70, 2023. (IEEE Signal Processing Societys top 25 downloaded articles (Sep.2022 - Sep.2023))<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9905733" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain
 " target="_blank">[code]</a>
 
 
