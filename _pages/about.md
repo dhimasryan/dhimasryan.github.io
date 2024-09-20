@@ -22,18 +22,19 @@ My research interests include deep learning, speech processing, and deep learnin
 
 ## Selected Publications ##
 <a id="1"></a> 
-R. E. Zezario, F. Chen, C.-S. Fuh, H.-M. Wang, and Y.Tsao, "Non-Intrusive Speech Intelligibility Prediction for Hearing Aids using Whisper and Metadata," to appear in Interspeech 2024 <a href="https://arxiv.org/pdf/2309.09548" target="_blank">[pdf]</a>
+R. E. Zezario, F. Chen, C.-S. Fuh, H.-M. Wang, and Y.Tsao, "Non-Intrusive Speech Intelligibility Prediction for Hearing Aids using Whisper and Metadata," INTERSPEECH 2024, pp. 3844-3848, 2024. <a href="https://www.isca-archive.org/interspeech_2024/zezario24_interspeech.pdf" target="_blank">[pdf]</a>
 
 <a id="1"></a> 
-R. E. Zezario, Y.-W. Chen, S.-W. Fu, Y. Tsao, H. -M. Wang and C. -S. Fuh, "A Study on Incorporating Whisper for Robust Speech Assessment," to appear in IEEE ICME 2024. (Top Performance on the Track 3 - VoiceMOS Challenge 2023) <a href="https://arxiv.org/pdf/2309.12766.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/TMHINT-QI_VoiceMOS2023" target="_blank">[dataset]</a> <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain/tree/main/MOSA_Net%2B" target="_blank">[github]</a>
+W.-C. Huang, S.-W. Fu, E. Cooper, R. E. Zezario, T. Toda, H.-M. Wang, J. Yamagishi, and Y. Tsao,"The VoiceMOS Challenge 2024: Beyond Speech Quality Prediction", to appear in IEEE Workshop on Spoken Language Technology (SLT2024). <a href="https://arxiv.org/pdf/2409.07001" target="_blank">[pdf]</a>
 
 <a id="1"></a> 
-R. E. Zezario, Bo-Ren Brian Bai, Chiou-Shann Fuh, Hsin-Min Wang, Yu Tsao, "Multi-Task Pseudo-Label Learning for Non-Intrusive Speech Quality Assessment Model," IEEE ICASSP 2024, pp. 831-835. 2024. <a href="https://arxiv.org/pdf/2308.09262.pdf" target="_blank">[pdf]</a> 
+R. E. Zezario, Y.-W. Chen, S.-W. Fu, Y. Tsao, H. -M. Wang and C. -S. Fuh, "A Study on Incorporating Whisper for Robust Speech Assessment," IEEE ICME 2024. (Top Performance on the Track 3 - VoiceMOS Challenge 2023) <a href="https://arxiv.org/pdf/2309.12766.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/TMHINT-QI_VoiceMOS2023" target="_blank">[dataset]</a> <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain/tree/main/MOSA_Net%2B" target="_blank">[github]</a>
 
+<a id="1"></a> 
+R. E. Zezario, Bo-Ren Brian Bai, Chiou-Shann Fuh, Hsin-Min Wang, Yu Tsao, "Multi-Task Pseudo-Label Learning for Non-Intrusive Speech Quality Assessment Model," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, pp. 831-835, 2024. <a href="https://arxiv.org/pdf/2308.09262.pdf" target="_blank">[pdf]</a> 
 
-R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features," in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 54-70, 2023. (IEEE Signal Processing Societys top 25 downloaded articles (Sep.2022 - Sep.2023))<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9905733" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain
-" target="_blank">[code]</a>
-
+<a id="1"></a> 
+R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features," in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 54-70, 2023. (IEEE Signal Processing Societys top 25 downloaded articles (Sep.2022 - Sep.2023))<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9905733" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain" target="_blank">[code]</a>
 
 <a id="1"></a> 
 R. E. Zezario, S.-W. Fu, F. Chen, C. -S. Fuh, H. -M. Wang and Y. Tsao, "MTI-Net: A Multi-Target Speech Intelligibility Prediction Model," INTERSPEECH 2022, pp. 5463-5467, 2022. <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2022/zezario22_interspeech.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/MTI-Net
