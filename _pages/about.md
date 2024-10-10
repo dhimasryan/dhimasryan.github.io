@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Researcher at the Research Center for Information Technology Innovation, Academia Sinica, in Taipei, Taiwan. I was previously a Research Assistant at the same institute and also worked as an Applied Scientist II Intern at Amazon in California, USA. 
-
-I received a Ph.D. degree in Computer Science and Information Engineering from National Taiwan University, Taipei, Taiwan.
+I am currently a Postdoctoral Researcher at the Research Center for Information Technology Innovation, Academia Sinica, in Taipei, Taiwan. I received a Ph.D. degree in Computer Science and Information Engineering from National Taiwan University, Taipei, Taiwan.
 
 I am a <a href="https://www.webofscience.com/wos/author/record/IQR-6465-2023" target="_blank">Reviewer</a> in leading journals/conferences, such as IEEE/ACM TASLP, IEEE SPL, IEEE ICASSP, Interspeech, IEEE ASRU, IEEE SLT, IEEE ICME, Speech Communication, etc. I am also a co-organizer of <a href="https://sites.google.com/view/voicemos-challenge/" target="_blank">VoiceMOS Challenge 2024</a>. 
  
