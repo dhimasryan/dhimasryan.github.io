@@ -13,7 +13,7 @@ I am currently a Postdoctoral Researcher at the Research Center for Information 
 I am a <a href="https://www.webofscience.com/wos/author/record/IQR-6465-2023" target="_blank">Reviewer</a> in leading journals/conferences, such as IEEE/ACM TASLP, IEEE SPL, IEEE J-STSP, IEEE ICASSP, Interspeech, IEEE ASRU, IEEE SLT, IEEE ICME, Speech Communication, etc. I am also a co-organizer of <a href="https://sites.google.com/view/voicemos-challenge/" target="_blank">VoiceMOS Challenge 2024</a>. 
  
 
-My research interests include deep learning, speech processing, and deep learning-based non-intrusive speech assessment model. Please kindly check the following <a href="https://scholar.google.com/citations?user=czoBHtoAAAAJ&hl=en" target="_blank">link</a> for more update publications.
+My research interests include deep learning, speech processing, speech recognition, and non-intrusive speech assessment. Please kindly check the following <a href="https://scholar.google.com/citations?user=czoBHtoAAAAJ&hl=en" target="_blank">link</a> for more updated publications.
 
 ## Selected Publications ##
 <a id="1"></a> 
