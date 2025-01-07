@@ -19,8 +19,6 @@ My research interests include deep learning, speech processing, speech recogniti
 <a id="1"></a> 
 R. E. Zezario, S. M. Siniscalchi, H.-M. Wang, and Y. Tsao, "A Study on Zero-shot Non-intrusive Speech Assessment using Large Language Models", to appear in ICASSP 2025 - 2025 IEEE International Conference on Acoustics. <a href="https://arxiv.org/pdf/2409.09914" target="_blank">[pdf]</a>
 
-W.-C. Huang, S.-W. Fu, E. Cooper, R. E. Zezario, T. Toda, H.-M. Wang, J. Yamagishi, and Y. Tsao,"The VoiceMOS Challenge 2024: Beyond Speech Quality Prediction", to appear in IEEE Workshop on Spoken Language Technology (SLT2024). <a href="https://arxiv.org/pdf/2409.07001" target="_blank">[pdf]</a>
-
 <a id="1"></a> 
 R. E. Zezario, F. Chen, C.-S. Fuh, H.-M. Wang, and Y.Tsao, "Non-Intrusive Speech Intelligibility Prediction for Hearing Aids using Whisper and Metadata," INTERSPEECH 2024, pp. 3844-3848, 2024. <a href="https://www.isca-archive.org/interspeech_2024/zezario24_interspeech.pdf" target="_blank">[pdf]</a>
 
@@ -52,9 +50,6 @@ C. Yu* , R. E. Zezario* , S.-S. Wang, J. Sherman, Y.-Y. Hsieh, X. Lu, H.-M. Wang
 
 <a id="1"></a> 
 R. E. Zezario, T. Hussain, X. Lu, H. -M. Wang and Y. Tsao, "Self-Supervised Denoising Autoencoder with Linear Regression Decoder for Speech Enhancement," ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 6669-6673, 2020. <a href="https://ieeexplore.ieee.org/abstract/document/9053925" target="_blank">[pdf]</a> 
-
-<a id="1"></a> 
-R. E. Zezario, J. W. C. Sigalingging, T. Hussain, J. -C. Wang and Y. Tsao, "Comparative Study of Masking and Mapping Based on Hierarchical Extreme Learning Machine for Speech Enhancement," 2019 International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS), pp. 1-2, 2019. <a href="https://ieeexplore.ieee.org/abstract/document/8986352" target="_blank">[pdf]</a> 
 
 <a id="1"></a> 
 R. E. Zezario,S.-W. Fu, X. Lu, H.-M. Wang, and Y. Tsao, “Specialized
