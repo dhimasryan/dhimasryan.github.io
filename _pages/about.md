@@ -19,6 +19,8 @@ My research interests include deep learning, speech processing, speech recogniti
 <a id="1"></a> 
 R. E. Zezario, S. M. Siniscalchi, H.-M. Wang, and Y. Tsao, "A Study on Zero-shot Non-intrusive Speech Assessment using Large Language Models", to appear in ICASSP 2025 - 2025 IEEE International Conference on Acoustics. <a href="https://arxiv.org/pdf/2409.09914" target="_blank">[pdf]</a>
 
+W.-C. Huang, S.-W. Fu, E. Cooper, R. E. Zezario, T. Toda, H.-M. Wang, J. Yamagishi, and Y. Tsao,"The VoiceMOS Challenge 2024: Beyond Speech Quality Prediction", to appear in IEEE Workshop on Spoken Language Technology (SLT2024). <a href="https://arxiv.org/pdf/2409.07001" target="_blank">[pdf]</a>
+
 <a id="1"></a> 
 R. E. Zezario, F. Chen, C.-S. Fuh, H.-M. Wang, and Y.Tsao, "Non-Intrusive Speech Intelligibility Prediction for Hearing Aids using Whisper and Metadata," INTERSPEECH 2024, pp. 3844-3848, 2024. <a href="https://www.isca-archive.org/interspeech_2024/zezario24_interspeech.pdf" target="_blank">[pdf]</a>
 
