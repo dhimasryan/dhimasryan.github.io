@@ -16,6 +16,15 @@ I am a <a href="https://www.webofscience.com/wos/author/record/IQR-6465-2023" ta
 My research interests include deep learning, speech processing, speech recognition, and non-intrusive speech assessment. Please kindly check the following <a href="https://scholar.google.com/citations?user=czoBHtoAAAAJ&hl=en" target="_blank">link</a> for more updated publications.
 
 ## Selected Publications ##
+
+<a id="1"></a> 
+**R. E. Zezario**, S. M. Siniscalchi, F. Chen, H.-M. Wang, and Y. Tsao, "Feature Importance across Domains for Improving Non-Intrusive Speech Intelligibility Prediction in Hearing Aids,"to appear in INTERSPEECH 2025.
+
+S. Ahmed, **R. E. Zezario**, H.-G. Yuan, A. Hussain, H.-M. Wang, W.-H. Chung, and Y. Tsao, "NeuroAMP: A Novel End-to-end General Purpose Deep Neural Amplifier for Personalized Hearing Aids," to appear in IEEE Transactions on Artificial Intelligence. 
+
+<a id="1"></a> 
+S. Ahmed, **R. E. Zezario**, N. Saleem, A. Hussain, H.-M. Wang, and Y. Tsao, "A Study on Speech Assessment with Visual Cues," to appear in INTERSPEECH 2025.
+
 <a id="1"></a> 
 **R. E. Zezario**, S. M. Siniscalchi, H.-M. Wang, and Y. Tsao, "A Study on Zero-shot Non-intrusive Speech Assessment using Large Language Models",  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 1-5, 2025. <a href="https://arxiv.org/pdf/2409.09914" target="_blank">[pdf]</a>
 
