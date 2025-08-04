@@ -18,12 +18,12 @@ My research interests include deep learning, speech processing, speech recogniti
 ## Selected Publications ##
 
 <a id="1"></a> 
-**R. E. Zezario**, S. M. Siniscalchi, F. Chen, H.-M. Wang, and Y. Tsao, "Feature Importance across Domains for Improving Non-Intrusive Speech Intelligibility Prediction in Hearing Aids,"to appear in INTERSPEECH 2025.
+**R. E. Zezario**, S. M. Siniscalchi, F. Chen, H.-M. Wang, and Y. Tsao, "Feature Importance across Domains for Improving Non-Intrusive Speech Intelligibility Prediction in Hearing Aids," to appear in INTERSPEECH 2025. <a href="https://arxiv.org/pdf/2507.23223" target="_blank">[pdf]</a>
 
-S. Ahmed, **R. E. Zezario**, H.-G. Yuan, A. Hussain, H.-M. Wang, W.-H. Chung, and Y. Tsao, "NeuroAMP: A Novel End-to-end General Purpose Deep Neural Amplifier for Personalized Hearing Aids," to appear in IEEE Transactions on Artificial Intelligence. 
+S. Ahmed, **R. E. Zezario**, H.-G. Yuan, A. Hussain, H.-M. Wang, W.-H. Chung, and Y. Tsao, "NeuroAMP: A Novel End-to-end General Purpose Deep Neural Amplifier for Personalized Hearing Aids," to appear in IEEE Transactions on Artificial Intelligence. <a href="https://arxiv.org/pdf/2502.10822" target="_blank">[pdf]</a>
 
 <a id="1"></a> 
-S. Ahmed, **R. E. Zezario**, N. Saleem, A. Hussain, H.-M. Wang, and Y. Tsao, "A Study on Speech Assessment with Visual Cues," to appear in INTERSPEECH 2025.
+S. Ahmed, **R. E. Zezario**, N. Saleem, A. Hussain, H.-M. Wang, and Y. Tsao, "A Study on Speech Assessment with Visual Cues," to appear in INTERSPEECH 2025. <a href="https://arxiv.org/pdf/2506.09549" target="_blank">[pdf]</a>
 
 <a id="1"></a> 
 **R. E. Zezario**, S. M. Siniscalchi, H.-M. Wang, and Y. Tsao, "A Study on Zero-shot Non-intrusive Speech Assessment using Large Language Models",  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 1-5, 2025. <a href="https://arxiv.org/pdf/2409.09914" target="_blank">[pdf]</a>
