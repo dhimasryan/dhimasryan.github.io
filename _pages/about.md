@@ -16,15 +16,29 @@ I am a <a href="https://www.webofscience.com/wos/author/record/IQR-6465-2023" ta
 My research interests include deep learning, speech processing, speech recognition, and non-intrusive speech assessment. Please kindly check the following <a href="https://scholar.google.com/citations?user=czoBHtoAAAAJ&hl=en" target="_blank">link</a> for more updated publications.
 
 ## Selected Publications ##
+<a id="1"></a> 
+**R. E. Zezario**, "Non-Intrusive Intelligibility Prediction for Hearing Aids: Recent Advances, Trends, and Challenges," to appear in 2025 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). <a href="https://homepage.citi.sinica.edu.tw/papers/ryandhimas/11283-F.pdf" target="_blank">[pdf]</a>
 
 <a id="1"></a> 
-**R. E. Zezario**, S. M. Siniscalchi, F. Chen, H.-M. Wang, and Y. Tsao, "Feature Importance across Domains for Improving Non-Intrusive Speech Intelligibility Prediction in Hearing Aids," to appear in INTERSPEECH 2025. <a href="https://arxiv.org/pdf/2507.23223" target="_blank">[pdf]</a>
+**R. E. Zezario**, D. A.M.G. Wisnu, H.-M. Wang, and Y. Tsao, "Speech Intelligibility Assessment with Uncertainty-Aware Whisper Embeddings and sLSTM," to appear in 2025 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC).  <a href="https://homepage.citi.sinica.edu.tw/papers/ryandhimas/11275-F.pdf" target="_blank">[pdf]</a>
+ 
+<a id="1"></a> 
+D. A. M. G. Wisnu, **R. E. Zezario**, S. Rini, H.-M. Wang, and Y.Tsao, "Improving Perceptual Audio Aesthetic Assessment via Triplet Loss and Self-Supervised Embeddings," to appear in IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU) 2025. (Third Place on the Track 2 - AudioMOS Challenge 2025) <a href="https://homepage.citi.sinica.edu.tw/papers/ryandhimas/11253-F.pdf" target="_blank">[pdf]</a>
 
+<a id="1"></a> 
+W. Ren, Y.-C. Lin, W.-C. Huang, **R. E. Zezario**, S.-W. Fu, S.-F. Huang, E. Cooper, H. Wu, H.-Yu Wei, H.-Min Wang, H.-yi Lee, Y. Tsao, "HighRateMOS: Sampling-Rate Aware Modeling for Speech Quality Assessment," to appear in IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU) 2025. (Top Performance on the Track 3 - AudioMOS Challenge 2025) <a href="https://homepage.citi.sinica.edu.tw/papers/ryandhimas/11208-F.pdf" target="_blank">[pdf]</a>
+ 
+<a id="1"></a> 
 S. Ahmed, **R. E. Zezario**, H.-G. Yuan, A. Hussain, H.-M. Wang, W.-H. Chung, and Y. Tsao, "NeuroAMP: A Novel End-to-end General Purpose Deep Neural Amplifier for Personalized Hearing Aids," to appear in IEEE Transactions on Artificial Intelligence. <a href="https://arxiv.org/pdf/2502.10822" target="_blank">[pdf]</a>
 
-<a id="1"></a> 
-S. Ahmed, **R. E. Zezario**, N. Saleem, A. Hussain, H.-M. Wang, and Y. Tsao, "A Study on Speech Assessment with Visual Cues," to appear in INTERSPEECH 2025. <a href="https://arxiv.org/pdf/2506.09549" target="_blank">[pdf]</a>
+**R. E. Zezario**, S. M. Siniscalchi, F. Chen, H.-M. Wang, and Y. Tsao, "Feature Importance across Domains for Improving Non-Intrusive Speech Intelligibility Prediction in Hearing Aids,"INTERSPEECH, pp.5473-5477, 2025. <a href="https://arxiv.org/pdf/2507.23223" target="_blank">[pdf]</a>
 
+<a id="1"></a> 
+S. Ahmed, **R. E. Zezario**, N. Saleem, A. Hussain, H.-M. Wang, and Y. Tsao, "A Study on Speech Assessment with Visual Cues,"INTERSPEECH, pp.5418-5422, 2025. <a href="https://arxiv.org/pdf/2506.09549" target="_blank">[pdf</a>
+
+<a id="1"></a> 
+R. E. Zezario, D. A. M. G. Wisnu, H.-M. Wang, and Y. Tsao, "A Study on Zero-Shot Non-Intrusive Speech Intelligibility for Hearing Aids Using Large Language Models," ICCE-TW, 2025. <a href="https://homepage.citi.sinica.edu.tw/papers/ryandhimas/11195-F.pdf" target="_blank">[pdf]</a>
+ 
 <a id="1"></a> 
 **R. E. Zezario**, S. M. Siniscalchi, H.-M. Wang, and Y. Tsao, "A Study on Zero-shot Non-intrusive Speech Assessment using Large Language Models",  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 1-5, 2025. <a href="https://arxiv.org/pdf/2409.09914" target="_blank">[pdf]</a>
 
