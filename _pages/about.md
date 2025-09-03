@@ -37,7 +37,7 @@ S. Ahmed, **R. E. Zezario**, H.-G. Yuan, A. Hussain, H.-M. Wang, W.-H. Chung, an
 S. Ahmed, **R. E. Zezario**, N. Saleem, A. Hussain, H.-M. Wang, and Y. Tsao, "A Study on Speech Assessment with Visual Cues,"INTERSPEECH, pp.5418-5422, 2025. <a href="https://arxiv.org/pdf/2506.09549" target="_blank">[pdf</a>
 
 <a id="1"></a> 
-R. E. Zezario, D. A. M. G. Wisnu, H.-M. Wang, and Y. Tsao, "A Study on Zero-Shot Non-Intrusive Speech Intelligibility for Hearing Aids Using Large Language Models," ICCE-TW, 2025. <a href="https://homepage.citi.sinica.edu.tw/papers/ryandhimas/11195-F.pdf" target="_blank">[pdf]</a>
+**R. E. Zezario**, D. A. M. G. Wisnu, H.-M. Wang, and Y. Tsao, "A Study on Zero-Shot Non-Intrusive Speech Intelligibility for Hearing Aids Using Large Language Models," ICCE-TW, 2025. <a href="https://homepage.citi.sinica.edu.tw/papers/ryandhimas/11195-F.pdf" target="_blank">[pdf]</a>
  
 <a id="1"></a> 
 **R. E. Zezario**, S. M. Siniscalchi, H.-M. Wang, and Y. Tsao, "A Study on Zero-shot Non-intrusive Speech Assessment using Large Language Models",  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 1-5, 2025. <a href="https://arxiv.org/pdf/2409.09914" target="_blank">[pdf]</a>
