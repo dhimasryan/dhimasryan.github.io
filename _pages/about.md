@@ -20,7 +20,7 @@ My research interests include deep learning, speech processing, speech recogniti
 **R. E. Zezario**, "Non-Intrusive Intelligibility Prediction for Hearing Aids: Recent Advances, Trends, and Challenges," to appear in 2025 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). <a href="https://homepage.citi.sinica.edu.tw/papers/ryandhimas/11283-F.pdf" target="_blank">[pdf]</a>
 
 <a id="1"></a> 
-**R. E. Zezario**, D. A.M.G. Wisnu, H.-M. Wang, and Y. Tsao, "Speech Intelligibility Assessment with Uncertainty-Aware Whisper Embeddings and sLSTM," to appear in 2025 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC).  <a href="https://homepage.citi.sinica.edu.tw/papers/ryandhimas/11275-F.pdf" target="_blank">[pdf]</a>
+**R. E. Zezario**, D. A.M.G. Wisnu, H.-M. Wang, and Y. Tsao, "Speech Intelligibility Assessment with Uncertainty-Aware Whisper Embeddings and sLSTM," to appear in 2025 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC).  <a href="https://homepage.citi.sinica.edu.tw/papers/ryandhimas/11319-F.pdf" target="_blank">[pdf]</a>
  
 <a id="1"></a> 
 D. A. M. G. Wisnu, **R. E. Zezario**, S. Rini, H.-M. Wang, and Y.Tsao, "Improving Perceptual Audio Aesthetic Assessment via Triplet Loss and Self-Supervised Embeddings," to appear in IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU) 2025. (Third Place on the Track 2 - AudioMOS Challenge 2025) <a href="https://homepage.citi.sinica.edu.tw/papers/ryandhimas/11253-F.pdf" target="_blank">[pdf]</a>
