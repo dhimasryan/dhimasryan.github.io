@@ -38,6 +38,19 @@ external_services:
   github_readme_stats_url: https://github-readme-stats.vercel.app
   github_profile_trophy_url: https://github-profile-trophy.vercel.app
 
+description: >
+  My academic portfolio site.
+  <style>
+    :root, html {
+      --global-theme-color: #007bff !important;
+      --global-hover-color: #0056b3 !important;
+    }
+    html[data-theme='dark'] {
+      --global-theme-color: #3b82f6 !important;
+    }
+  </style>
+
+
 # -----------------------------------------------------------------------------
 # al-folio API (v1.x)
 # -----------------------------------------------------------------------------
