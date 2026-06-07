@@ -26,6 +26,6 @@ latest_posts:
 
 I am currently a <a href="https://homepage.citi.sinica.edu.tw/pages/ryandhimas/index_en.html" target="_blank">Postdoctoral Researcher</a> at the Research Center for Information Technology Innovation, Academia Sinica, in Taipei, Taiwan. I received a Ph.D. degree in Computer Science and Information Engineering from National Taiwan University, Taipei, Taiwan.
 
-I am a <a href="https://www.webofscience.com/wos/author/record/IQR-6465-2023" target="_blank">Reviewer</a> in leading journals/conferences, such as IEEE/ACM TASLP, IEEE SPL, IEEE J-STSP, IEEE ICASSP, Interspeech, IEEE ASRU, IEEE SLT, IEEE ICME, Speech Communication, etc.
+I am a <a href="https://www.webofscience.com/wos/author/record/IQR-6465-2023" target="_blank">Reviewer</a> in leading journals/conferences, such as IEEE/ACM TASLP, IEEE SPL, IEEE J-STSP, IEEE ICASSP, Interspeech, IEEE ASRU, IEEE SLT, IEEE ICME, Speech Communication, etc. I was a recipient of the Gold Prize for the Best Non-Intrusive Systems, the first place in the Hearing Industry Research Consortium student prizes at the Clarity Prediction Challenge 2022, the Best Reviewer Award at IEEE ASRU 2023, and Third Place at Clarity Prediction Challenge 2025.
  
 My research interests include deep learning, speech processing, speech recognition, and non-intrusive speech assessment. Please kindly check the following <a href="https://scholar.google.com/citations?user=czoBHtoAAAAJ&hl=en" target="_blank">link</a> for more updated publications.
