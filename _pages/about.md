@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://eeb.ee.yzu.edu.tw/?lang=en">Electical Engineering, Yuan Ze University</a>
+subtitle: <a href="https://eeb.ee.yzu.edu.tw/?lang=en" target="_blank"> Electical Engineering, Yuan Ze University</a>
 
 profile:
   align: right
