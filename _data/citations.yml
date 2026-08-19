@@ -1,7 +1,155 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-19'
 papers:
+  czoBHtoAAAAJ:-f6ydRqryjwC:
+    citations: 4
+    title: Non-intrusive multi-branch speech intelligibility prediction using multi-stage training
+    year: '2025'
+  czoBHtoAAAAJ:0EnyYjriUFMC:
+    citations: 41
+    title: 'MBI-Net: A non-intrusive multi-branched speech intelligibility prediction model for hearing aids'
+    year: '2022'
+  czoBHtoAAAAJ:2osOgNQ5qMEC:
+    citations: 0
+    title: Implementasi Backpropagation Neural Network Dalam Pembangkitan Otomatis Fungsi Keanggotaan Fuzzy Pada Penderita Penyakit Hepatitis
+    year: '2014'
+  czoBHtoAAAAJ:3fE2CSJIrl8C:
+    citations: 52
+    title: A study on incorporating Whisper for robust speech assessment
+    year: '2024'
+  czoBHtoAAAAJ:4DMP91E08xMC:
+    citations: 16
+    title: Non-Intrusive Speech Intelligibility Prediction for Hearing Aids using Whisper and Metadata
+    year: '2024'
+  czoBHtoAAAAJ:7PzlFSSx8tAC:
+    citations: 5
+    title: 'HighRateMOS: sampling-rate aware modeling for speech quality assessment'
+    year: '2025'
+  czoBHtoAAAAJ:8k81kl-MbHgC:
+    citations: 7
+    title: Multi-task pseudo-label learning for non-intrusive speech quality assessment model
+    year: '2024'
+  czoBHtoAAAAJ:9ZlFYXVOiuMC:
+    citations: 2
+    title: A Study on Speech Assessment with Visual Cues
+    year: '2025'
+  czoBHtoAAAAJ:HDshCWvjkbEC:
+    citations: 0
+    title: Few-Shot and Pseudo-Label Guided Speech Quality Evaluation with Large Language Models
+    year: '2026'
+  czoBHtoAAAAJ:IWHjjKOFINEC:
+    citations: 2
+    title: 'Non-intrusive intelligibility prediction for hearing aids: Recent advances, trends, and challenges'
+    year: '2025'
+  czoBHtoAAAAJ:IjCSPb-OGe4C:
+    citations: 34
+    title: Self-supervised denoising autoencoder with linear regression decoder for speech enhancement
+    year: '2020'
+  czoBHtoAAAAJ:KlAtU1dfN6UC:
+    citations: 0
+    title: "\u4EE5\u6DF1\u5EA6\u5B78\u7FD2\u70BA\u57FA\u790E\u7684\u8A9E\u97F3\u8A55\u4F30\u6A19\u6E96\u8207\u61C9\u7528"
+    year: '2023'
+  czoBHtoAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: A Study on Zero-Shot Non-Intrusive Speech Intelligibility for Hearing aids Using Large Language Models
+    year: '2025'
+  czoBHtoAAAAJ:R3hNpaxXUhUC:
+    citations: 4
+    title: Rethinking training targets, architectures and data quality for universal speech enhancement
+    year: '2026'
+  czoBHtoAAAAJ:Se3iqnhoufwC:
+    citations: 2
+    title: Investigation of a single-channel frequency-domain speech enhancement network to improve end-to-end Bengali automatic speech recognition under unseen noisy conditions
+    year: '2021'
+  czoBHtoAAAAJ:UeHWp8X0CEIC:
+    citations: 70
+    title: Speech enhancement based on denoising autoencoder with multi-branched encoders
+    year: '2020'
   czoBHtoAAAAJ:UebtZRa9Y70C:
-    citations: 149
+    citations: 148
     title: Deep learning-based non-intrusive multi-objective speech assessment model with cross-domain features
-    year: 2021
+    year: '2022'
+  czoBHtoAAAAJ:WF5omc3nYNoC:
+    citations: 72
+    title: 'STOI-Net: A deep learning based non-intrusive speech intelligibility assessment model'
+    year: '2020'
+  czoBHtoAAAAJ:Wp0gIr-vW9MC:
+    citations: 9
+    title: 'HAAQI-Net: A non-intrusive neural music audio quality assessment model for hearing aids'
+    year: '2025'
+  czoBHtoAAAAJ:YOwf2qJgpHMC:
+    citations: 3
+    title: Deep learning-based speech intelligibility prediction model by incorporating whisper for hearing aids
+    year: '2023'
+  czoBHtoAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: Comparative Study of Masking and Mapping Based on Hierarchical Extreme Learning Machine for Speech Enhancement
+    year: '2019'
+  czoBHtoAAAAJ:ZeXyd9-uunAC:
+    citations: 1
+    title: 'Neuro-MSBG: An End-to-End Neural Model for Hearing Loss Simulation'
+    year: '2025'
+  czoBHtoAAAAJ:Zph67rFs4hoC:
+    citations: 2
+    title: Speech dereverberation based on self-supervised residual denoising autoencoder with linear decoder
+    year: '2022'
+  czoBHtoAAAAJ:_Qo2XoVZTnwC:
+    citations: 0
+    title: Enhancing Speech Intelligibility Prediction for Hearing Aids with Complementary Speech Foundation Model Representations
+    year: '2026'
+  czoBHtoAAAAJ:aqlVkmm33-oC:
+    citations: 15
+    title: A study on zero-shot non-intrusive speech assessment using large language models
+    year: '2025'
+  czoBHtoAAAAJ:d1gkVwhDpl0C:
+    citations: 13
+    title: Deep denoising autoencoder based post filtering for speech enhancement
+    year: '2018'
+  czoBHtoAAAAJ:dhFuZR0502QC:
+    citations: 3
+    title: Feature Importance across Domains for Improving Non-Intrusive Speech Intelligibility Prediction in Hearing Aids
+    year: '2025'
+  czoBHtoAAAAJ:e5wmG9Sq2KIC:
+    citations: 3
+    title: 'Mos-bias: From hidden gender bias to gender-aware speech quality assessment'
+    year: '2026'
+  czoBHtoAAAAJ:hC7cP41nSMkC:
+    citations: 3
+    title: Improving Perceptual Audio Aesthetic Assessment via Triplet Loss and Self-Supervised Embeddings
+    year: '2025'
+  czoBHtoAAAAJ:hFOr9nPyWt4C:
+    citations: 0
+    title: 'STSM-FiLM: A FiLM-Conditioned Neural Architecture for Time-Scale Modification of Speech'
+    year: '2025'
+  czoBHtoAAAAJ:hqOjcs7Dif8C:
+    citations: 17
+    title: 'MTI-Net: A multi-target speech intelligibility prediction model'
+    year: '2022'
+  czoBHtoAAAAJ:mVmsd5A6BfQC:
+    citations: 7
+    title: 'NeuroAMP: A novel end-to-end general purpose deep neural amplifier for personalized hearing aids'
+    year: '2025'
+  czoBHtoAAAAJ:qUcmZB5y_30C:
+    citations: 0
+    title: Speech Intelligibility Assessment with Uncertainty-Aware Whisper Embeddings and sLSTM
+    year: '2025'
+  czoBHtoAAAAJ:qxL8FJ1GzNcC:
+    citations: 61
+    title: 'The voicemos challenge 2024: Beyond speech quality prediction'
+    year: '2024'
+  czoBHtoAAAAJ:roLk4NBRz8UC:
+    citations: 23
+    title: Boosting Objective Scores of a Speech Enhancement Model by MetricGAN Post-processing
+    year: '2020'
+  czoBHtoAAAAJ:u-x6o8ySG0sC:
+    citations: 1
+    title: Incorporating local environment information with ensemble neural networks to robust automatic speech recognition
+    year: '2016'
+  czoBHtoAAAAJ:u5HHmVD_uO8C:
+    citations: 11
+    title: Specialized speech enhancement model selection based on learned non-intrusive quality assessment metric
+    year: '2019'
+  czoBHtoAAAAJ:ufrVoPGSRksC:
+    citations: 17
+    title: Speech enhancement with zero-shot model selection
+    year: '2021'
